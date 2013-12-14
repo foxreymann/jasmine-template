@@ -1,9 +1,8 @@
 exports.Game = function() {
-    
-    return {
-        move: function() {
-            return true;
-        }
+  return {
+    move: function() {
+      return true;
     }
+  }
 };
 
